@@ -1,3 +1,3 @@
 # new-project
 This is my first git  respository.
-Author-Shrishti Gupta
+Author-Shrishti Gupta (hello)
